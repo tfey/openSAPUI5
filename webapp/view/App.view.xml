@@ -59,7 +59,7 @@
 							rows="{movies>/movies}"
 							appointmentsVisualization="Filled">
 							<toolbarContent>
-								<Title text="Showtimes" titleStyle="H3"/>
+								<Title text="{i18n>calendarTitle}" titleStyle="H3"/>
 							</toolbarContent>
 							<rows>
 								<PlanningCalendarRow
